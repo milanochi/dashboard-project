@@ -4,17 +4,14 @@
 - **GitHub Copilot** - AI coding assistant integrated in VS Code
 
 ## Parts Where AI Was Used
-
-
 ### 1. Utility Functions
 AI created formatters for:
 - Date formatting
 - Currency formatting
 - Status color mapping
 
-
 ## What Was Changed or Rejected
-- **No significant rejections** - The generated code was well-structured and followed the requirements
+- **Rejections** - Rejected use onf context or Redux for state management.
 - **Minor adjustments**: Ensured proper accessibility attributes (aria-labels, roles)
 
 ## Points of Disagreement / Notes
