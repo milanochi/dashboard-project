@@ -11,9 +11,10 @@ A React-based internal project dashboard for viewing and filtering projects.
 
 ### Installation
 
-1. Clone the repository and navigate to the project directory:
+1. Clone the repository:
 
 ```bash
+git clone https://github.com/milanochi/dashboard-project.git
 cd dashboard-project
 ```
 
